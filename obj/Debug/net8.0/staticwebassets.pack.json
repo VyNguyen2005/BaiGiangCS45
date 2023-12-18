@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\1.txt",
+      "PackagePath": "staticwebassets\\1.txt"
+    },
+    {
+      "Id": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Aspnetcore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Aspnetcore.props",
+      "PackagePath": "build\\Aspnetcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Aspnetcore.props",
+      "PackagePath": "buildMultiTargeting\\Aspnetcore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Aspnetcore.props",
+      "PackagePath": "buildTransitive\\Aspnetcore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

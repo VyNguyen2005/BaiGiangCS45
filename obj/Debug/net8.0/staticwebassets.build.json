@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "gC/zDRqyxCG/0Z9nCuwj8+FjEn7UJfQs2NBwPIuIA54=",
+  "Source": "Aspnetcore",
+  "BasePath": "_content/Aspnetcore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Aspnetcore\\wwwroot",
+      "Source": "Aspnetcore",
+      "ContentRoot": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\",
+      "BasePath": "_content/Aspnetcore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\1.txt",
+      "SourceId": "Aspnetcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\",
+      "BasePath": "_content/Aspnetcore",
+      "RelativePath": "1.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\1.txt"
+    },
+    {
+      "Identity": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\about.html",
+      "SourceId": "Aspnetcore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\tinti\\Aspnetcore\\wwwroot\\",
+      "BasePath": "_content/Aspnetcore",
+      "RelativePath": "about.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\about.html"
+    }
+  ]
+}
